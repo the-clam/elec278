@@ -1,6 +1,6 @@
 // readnumsv6.c - Lab 01 - Carl, Lam
 
-// This program reads numbers inputted by the user and adds them to a linkedlist, and users can choose whether 
+// This program reads numbers inputted by the user and adds them to a linkedlist, users can choose whether 
 // the numbers are added to the front or back of the linkedlist, as well as indicate when they are finished
 // with data entry. Version 6 is a combination of the features of all previous versions, with the addition
 // of the deletion feature that allows for the removal of all nodes containing a specific value.
