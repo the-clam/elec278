@@ -1,0 +1,11 @@
+# MAKEFILE
+# /courses/ELEC278/Lectures/code/graphs
+
+all:	bfs.exe dfs.exe bfs_digraph.exe
+
+clean:
+		del *.exe
+		del *.obj
+		del *.bak
+		del *.lst
+
