@@ -1,0 +1,11 @@
+Lam,                Carl                Dataset size:       5000                                                                            
+                    RANDOM                                  ASCENDING                               DESCENDING                              
+Sort                Elapsed Time        Number of Swaps     Elapsed Time        Number of Swaps     Elapsed Time        Number of Swaps     
+Bubble Sort         41                  6212577             0                   0                   56                  12497500            
+Insertion Sort      22                  6212577             0                   0                   43                  12497500            
+Heap Sort           2                   57128               0                   60933               1                   53437               
+Merge Sort          2                   1002                1                   0                   1                   2048                
+Quick Sort          0                   14599               14                  4999                12                  4999                
+Insertion Sort      11                  4999                17                  4999                15                  4999                
+Selection Sort (I)  10                  4999                18                  4999                14                  4999                
+Selection Sort (R)  1                   61213               0                   0                   0                   28780               

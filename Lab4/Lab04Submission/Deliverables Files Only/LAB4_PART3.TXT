@@ -1,0 +1,4 @@
+Lam,Carl                 Size of dataset          100000                   
+                         Elapsed time             Number of swaps          
+Original Quicksort       9                        393085                   
+Modified Quicksort       8                        393085                   
